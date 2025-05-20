@@ -1,0 +1,36 @@
+<!-- index.html --><!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mango Pulse</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Mango Pulse</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="products.html">Products</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <section class="hero">
+      <h2>Welcome to Mango Pulse</h2>
+      <p>Fresh, organic mangoes straight from our farm to your table.</p>
+    </section>
+    <section class="highlight">
+      <h3>Our Best Sellers</h3>
+      <ul class="product-list">
+        <li><img src="images/mango1.jpg" alt="Alphonso"><p>Alphonso</p></li>
+        <li><img src="images/mango2.jpg" alt="Kesar"><p>Kesar</p></li>
+        <li><img src="images/mango3.jpg" alt="Banganapalli"><p>Banganapalli</p></li>
+      </ul>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 Mango Pulse. All rights reserved.</p>
+  </footer>
+</body>
+</html>
